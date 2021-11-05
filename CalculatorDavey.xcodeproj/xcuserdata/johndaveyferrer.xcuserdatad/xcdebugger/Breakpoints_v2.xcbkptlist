@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "16B1845E-202E-4069-8907-927C536C9FFB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "071958F2-B529-4C48-8A1A-11CFAF3B0177"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Calculator - John Davey Ferrer/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "071958F2-B529-4C48-8A1A-11CFAF3B0177 - 8a9a0fba581fcd05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator___John_Davey_Ferrer.ViewController.userIsInTheMiddleOfTyping.getter : Swift.Bool"
+                  moduleName = "Calculator - John Davey Ferrer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johndaveyferrer/Documents/Advanced%20iOS%20Files/Calculator%20-%20John%20Davey%20Ferrer/Calculator%20-%20John%20Davey%20Ferrer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "071958F2-B529-4C48-8A1A-11CFAF3B0177 - 1568a189f148e531"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator___John_Davey_Ferrer.ViewController.userIsInTheMiddleOfTyping.setter : Swift.Bool"
+                  moduleName = "Calculator - John Davey Ferrer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johndaveyferrer/Documents/Advanced%20iOS%20Files/Calculator%20-%20John%20Davey%20Ferrer/Calculator%20-%20John%20Davey%20Ferrer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "071958F2-B529-4C48-8A1A-11CFAF3B0177 - 4404571a107ffd50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator___John_Davey_Ferrer.ViewController.userIsInTheMiddleOfTyping.modify : Swift.Bool"
+                  moduleName = "Calculator - John Davey Ferrer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johndaveyferrer/Documents/Advanced%20iOS%20Files/Calculator%20-%20John%20Davey%20Ferrer/Calculator%20-%20John%20Davey%20Ferrer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "071958F2-B529-4C48-8A1A-11CFAF3B0177 - c619e957a710aea2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator___John_Davey_Ferrer.ViewController.userIsInTheMiddleOfTyping.modify : Swift.Bool with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Calculator - John Davey Ferrer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johndaveyferrer/Documents/Advanced%20iOS%20Files/Calculator%20-%20John%20Davey%20Ferrer/Calculator%20-%20John%20Davey%20Ferrer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "071958F2-B529-4C48-8A1A-11CFAF3B0177 - 4455773aa143dfe4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator___John_Davey_Ferrer.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Calculator___John_Davey_Ferrer.ViewController"
+                  moduleName = "Calculator - John Davey Ferrer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johndaveyferrer/Documents/Advanced%20iOS%20Files/Calculator%20-%20John%20Davey%20Ferrer/Calculator%20-%20John%20Davey%20Ferrer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "071958F2-B529-4C48-8A1A-11CFAF3B0177 - 749eb29ba3ab3641"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator___John_Davey_Ferrer.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Calculator___John_Davey_Ferrer.ViewController&gt;"
+                  moduleName = "Calculator - John Davey Ferrer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johndaveyferrer/Documents/Advanced%20iOS%20Files/Calculator%20-%20John%20Davey%20Ferrer/Calculator%20-%20John%20Davey%20Ferrer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E45D1C7C-0BCA-4756-940D-7F113CB40B1C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Calculator - John Davey Ferrer/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E45D1C7C-0BCA-4756-940D-7F113CB40B1C - be99eea05108b268"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator___John_Davey_Ferrer.ViewController.display.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Calculator - John Davey Ferrer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johndaveyferrer/Documents/Advanced%20iOS%20Files/Calculator%20-%20John%20Davey%20Ferrer/Calculator%20-%20John%20Davey%20Ferrer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "E45D1C7C-0BCA-4756-940D-7F113CB40B1C - 6848b0ef7ee21e54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator___John_Davey_Ferrer.ViewController.display.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Calculator - John Davey Ferrer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johndaveyferrer/Documents/Advanced%20iOS%20Files/Calculator%20-%20John%20Davey%20Ferrer/Calculator%20-%20John%20Davey%20Ferrer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "E45D1C7C-0BCA-4756-940D-7F113CB40B1C - 105777dbe94e0354"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator___John_Davey_Ferrer.ViewController.display.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Calculator - John Davey Ferrer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johndaveyferrer/Documents/Advanced%20iOS%20Files/Calculator%20-%20John%20Davey%20Ferrer/Calculator%20-%20John%20Davey%20Ferrer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "E45D1C7C-0BCA-4756-940D-7F113CB40B1C - 40112fad286c387d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator___John_Davey_Ferrer.ViewController.display.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Calculator - John Davey Ferrer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johndaveyferrer/Documents/Advanced%20iOS%20Files/Calculator%20-%20John%20Davey%20Ferrer/Calculator%20-%20John%20Davey%20Ferrer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "E45D1C7C-0BCA-4756-940D-7F113CB40B1C - 4455773aa143df85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator___John_Davey_Ferrer.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Calculator___John_Davey_Ferrer.ViewController"
+                  moduleName = "Calculator - John Davey Ferrer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johndaveyferrer/Documents/Advanced%20iOS%20Files/Calculator%20-%20John%20Davey%20Ferrer/Calculator%20-%20John%20Davey%20Ferrer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "E45D1C7C-0BCA-4756-940D-7F113CB40B1C - 749eb29ba3ab3620"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator___John_Davey_Ferrer.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Calculator___John_Davey_Ferrer.ViewController&gt;"
+                  moduleName = "Calculator - John Davey Ferrer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johndaveyferrer/Documents/Advanced%20iOS%20Files/Calculator%20-%20John%20Davey%20Ferrer/Calculator%20-%20John%20Davey%20Ferrer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.IDETestFailureBreakpoint">
+         <BreakpointContent
+            uuid = "6570B52B-76D8-43CD-98F3-5951D8598069"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2AA2496-DFB2-43CE-9D79-579C3E6E0215"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CalculatorDaveyTests/CalculatorDaveyTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "testTangentOperation()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
